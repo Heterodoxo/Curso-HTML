@@ -1,0 +1,8 @@
+.list-trabalhos{
+    list-style: none;
+    padding: 0;
+}
+.lista-trabalhos__item{
+    margin-left: -15px;
+    margin-right: -15px;
+}
